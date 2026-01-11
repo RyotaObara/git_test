@@ -1,1 +1,8 @@
 .dotfile
+.DS_store
+*.md
+#ignore_dir/
+#ignore_dir/test.txt
+#test.txt
+#*.txt
+ignore_dir/*
